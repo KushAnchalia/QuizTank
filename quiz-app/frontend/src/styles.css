@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  input {
+    padding: 8px;
+    margin: 10px;
+    width: 300px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .quiz-container {
+    padding: 20px;
+  }
+  
+  .question-box {
+    background: white;
+    padding: 10px;
+    margin: 10px auto;
+    width: 50%;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px gray;
+  }
+  
